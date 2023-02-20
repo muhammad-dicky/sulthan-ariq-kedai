@@ -1,0 +1,9 @@
+catatan ADMIN
+
+Email	: admin@gmail.com
+Password: admin123456
+
+KARYAWAN
+
+Email	: veronica@gmail.com
+Password: password
