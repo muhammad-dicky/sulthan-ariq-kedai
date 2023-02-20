@@ -3,7 +3,17 @@ catatan ADMIN
 Email	: admin@gmail.com
 Password: admin123456
 
-KARYAWAN
+MANAGER
 
 Email	: veronica@gmail.com
+Password: password
+
+KASIR
+
+Email	: donna@gmail.com
+Password: password
+
+MEMBER
+
+Email : liam@gmail.com
 Password: password
