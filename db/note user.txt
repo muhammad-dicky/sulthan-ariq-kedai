@@ -2,11 +2,8 @@ catatan ADMIN
 Email	: admin@gmail.com
 Password: admin123456
 
-MANAGER
-Email	: manager@gmail.com
-Password: password
+KARYAWAN
 
-KASIR
-Email	: kasir@gmail.com
+Email	: veronica@gmail.com
 Password: password
 
