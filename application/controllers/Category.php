@@ -147,7 +147,6 @@ class Category extends Admin_Controller
 		// }
 		
 		$category_id = $this->input->post('category_id');
-
 		$response = array();
 		if($category_id) {
 			$delete = $this->model_category->remove($category_id);
@@ -167,5 +166,4 @@ class Category extends Admin_Controller
 
 		echo json_encode($response);
 	}
-
 }

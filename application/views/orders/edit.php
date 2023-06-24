@@ -49,7 +49,7 @@
                   <label for="date" class="col-sm-12 control-label">Date: <?php echo date('Y-m-d') ?></label>
                 </div>
                 <div class="form-group">
-                  <label for="time" class="col-sm-12 control-label">Date: <?php echo date('h:i a') ?></label>
+                  <label for="time" class="col-sm-12 control-label">Time: <?php ini_set('date.timezone', 'Asia/Jakarta'); echo date('h:i a') ?></label>
                 </div>
 
                 <div class="col-md-4 col-xs-12 pull pull-left">
