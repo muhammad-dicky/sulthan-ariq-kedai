@@ -133,7 +133,7 @@
             <!-- small box -->
             <div class="small-box bg-maroon">
               <div class="inner">
-                <h3>$<?php $query = $this->db->query('SELECT SUM( net_amount)as total FROM orders WHERE paid_status = 1;')->row(); echo floatval($query->total);?></h3>
+                <h3>Rp<?php $query = $this->db->query('SELECT SUM( net_amount)as total FROM orders WHERE paid_status = 1;')->row(); echo floatval($query->total);?></h3>
 
                 <p>Total Earnings</p>
               </div>
